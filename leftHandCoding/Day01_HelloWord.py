@@ -8,10 +8,16 @@
 # print(2-5)
 # print(3*10)
 # print(5/10)
+print("빨"+"주"+"노"+"초"+"파"+"남"+"보")
+rainbow="빨주노초파남보"
+print("rainbow 변수>>>",rainbow)
 print("==========================")
 #이것도 되는지 TEST
 # num=1
 # num2=2
 # result=num+num2
 # print(result)
+str="파이썬"
+for i in str:
+    print(str)
 
